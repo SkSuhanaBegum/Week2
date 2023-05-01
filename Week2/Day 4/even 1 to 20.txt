@@ -1,0 +1,10 @@
+1.begin
+2.declare count
+3.initialize count=1
+4.while (count<=20)
+5.if (count%2==0)
+6.display count
+8.count=count+1
+7.else
+8.count=count+1
+9.end while

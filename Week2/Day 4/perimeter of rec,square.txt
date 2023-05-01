@@ -1,0 +1,13 @@
+1.begin
+2.declare length,breadth,perimeter
+3.read length,breadth
+4.perimeter=2(length+breadth)
+5.display perimeter
+6.end
+
+1.begin
+2.declare side,perimeter
+3.read side
+4.perimeter=4*side
+5.display perimeter
+6.end

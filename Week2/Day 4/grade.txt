@@ -1,0 +1,21 @@
+1.begin
+2.declare sub1,sub2,sub3,sub4,sub5,obt_marks,total marks,percentage
+3.read sub1,sub2,sub3,sub4,sub5,total marks=500
+4.obt_marks=sub1+sub2+sub3+sub4+sub5
+5.display obt_marks
+6.percentage=(obt_marks/500)*100
+7.display percentage
+8.if (percentage>=90)
+9.display grade A
+10.elseif(percentage>=80)
+11.display grade B
+12.elseif(percentage>=70)
+13.display grade C
+14.elseif(percentage>=60)
+15.display grade D
+16.elseif(percentage>=40)
+17.display grade E
+18.else 
+19.display fail
+20.end if
+21.end

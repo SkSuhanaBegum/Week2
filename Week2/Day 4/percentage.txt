@@ -1,0 +1,8 @@
+1.begin
+2.declare sub1,sub2,sub3,sub4,sub5,obt_marks,total marks,percentage
+3.read sub1,sub2,sub3,sub4,sub5,total marks=500
+4.obt_marks=sub1+sub2+sub3+sub4+sub5
+5.display obt_marks
+6.percentage=(obt_marks/500)*100
+7.display percentage
+8.end

@@ -1,0 +1,9 @@
+1.begin
+2.declare  n
+3.read n
+4.if(n!==0)
+5.display n is odd
+6.else
+7.n is not an odd number
+8.end if
+9.end

@@ -1,0 +1,27 @@
+area of a rectangle
+1.begin
+2.declare length,breadth,area
+3.read length ,breadth
+4.area=length*breadth
+5.Display area
+6.end
+
+area of square
+1.begin
+2.declare side,area
+3.read side
+4.area=side*side
+5.Display area
+6.end
+
+
+1.begin
+2.declare side,area1,length,breadth,area2
+3.read side, length ,breadth
+4.area1=side*side
+5.area2=length*breadth
+6.display area of retangle
+7.display area1
+8.display area of square
+9.display area2
+10.end
